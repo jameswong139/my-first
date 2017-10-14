@@ -93,7 +93,7 @@ footer{
 	}
 }
 
-@media (max-width: 600px) {
+@media (max-width: 375px) {
 	article{
 		width: 100%;
 	}
